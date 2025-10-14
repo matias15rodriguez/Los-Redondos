@@ -1,0 +1,44 @@
+[
+  {
+    "titulo": "El Indio Solari presenta su exposición de arte",
+    "descripcion": "Una muestra inédita con obras del Indio en Buenos Aires. Abierta al público hasta diciembre.",
+    "imagen": "img/noticias/indio-expo.webp",
+    "categoria": "Indio Solari",
+    "link": "https://institutocultural.gba.gob.ar/articulo-noticia/noticias/llega-al-teatro-argentino-brutto-la-muestra-de-indio-solari"
+  },
+  {
+    "titulo": "Skay y Los Fakires: Proximos shows",
+    "descripcion": "El guitarrista y su imponente banda tiene grilla confirmada.",
+    "imagen": "img/noticias/skay.jpg",
+    "categoria": "Skay Beilinson",
+    "link": "https://www.last.fm/es/music/Skay+Beilinson/+events"
+  },
+  {
+    "titulo": "Los Fundamentalistas del aire acondicionado",
+    "descripcion": "La banda del Indio Solari se tomo un pequeño descanso lo que queda del año.",
+    "imagen": "img/noticias/fundamentalistas.webp",
+    "categoria": "Los Fundamentalistas",
+    "link": "https://www.songkick.com/es/artists/10150905-los-fundamentalistas-del-aire-acondicionado"
+  },
+  {
+    "titulo": "La Kermesse de los decoradores: la mistica ricotera paso por Tandil",
+    "descripcion": "La banda sigue girando con un setlist lleno de clásicos.",
+    "imagen": "img/noticias/decoradores.jpg",
+    "categoria": "Los Decoradores",
+    "link": "https://www.eldiariodetandil.com/nota-la-kermesse-de-los-decoradores-la-mistica-redonda-sigue-intacta-95417"
+  },
+  {
+    "titulo": "Banda tributo a los redondos: Superlógico y el artista gráfico Rocambole",
+    "descripcion": "Superlogico y Rocambole en una noche 100% redonda en Plaza de la Música de Mar del Plata",
+    "imagen": "img/noticias/superlogico.jpg",
+    "categoria": "Bandas tributo",
+    "link": "https://www.infobrisas.com/amp/noticias/2025/10/13/86262-superlogico-y-rocambole-en-una-noche-100por_ciento-redonda-en-plaza-de-la-musica-mar-del-plata"
+  },
+  {
+    "titulo": "Documental: Historico recital en cemento presentando GULP!",
+    "descripcion": "En estos dias se cumplieron cuatro decadas de un recital histórico que marcó para siempre al rock argentino.",
+    "imagen": "img/noticias/documental.jpg",
+    "categoria": "Documental",
+    "link": "https://indiehoy.com/noticias/documental-revive-la-historica-presentacion-de-gulp-de-los-redondos-en-cemento/"
+  }
+]
