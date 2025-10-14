@@ -33,7 +33,7 @@ body {
 .portada {
   position: relative;
   height: 100vh;
-  background: url("../img/los-redondos1.jpg") center/cover no-repeat;
+  background: url("../img/los_redo.jpg") center/cover no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -623,3 +623,4 @@ footer a {
   .parrafo { width: 100%; }
   section { padding: 3rem 1.25rem; }
 }
+
